@@ -22,7 +22,6 @@ int main() {
 	printf("\n4)Division = %f\n", (float)num_1 / num_2);//3.33
 	printf("\n5)Quotient = %d\n", num_1 / num_2);//3
 	printf("\n6)Remender = %d\n", num_1 % num_2);//1
-	printf("New line For git hub");
 	printf("\n\n ====================== \n\n");
 
 }
