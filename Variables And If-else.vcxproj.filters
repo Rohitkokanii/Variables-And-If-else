@@ -21,7 +21,7 @@
     <ClCompile Include="Q5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q6.c">
+    <ClCompile Include="Q6_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Q4_6.c">
@@ -40,6 +40,36 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Q3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
