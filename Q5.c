@@ -1,12 +1,15 @@
-#include<stdio.h>
-
-int main() {
-	/*	Q5.Accept Integer value form User
+/*	Q5.Accept Integer value form User
 		1) check it is odd / even
 		2) check positive, negative or zero
 		3) print it's absolute value
 		*/
 
+
+#include<stdio.h>
+
+int main() {
+	
+	//1) check it is odd / even
 	printf("\n1) check it is odd / even\n");
 	int User_num1;
 	printf("\nEnter No. To check it is Odd / Even = ");
@@ -19,6 +22,8 @@ int main() {
 	}
 
 	printf("\n\n ========================= \n\n");
+
+	//2) check positive, negative or zero
 
 	printf("2) check positive , negative or zero");
 
@@ -37,12 +42,20 @@ int main() {
 	}
 
 	printf("\n=====================\n");
+
+	//3) print it's absolute value
 	
 	printf("\n3) print it's absolute value\n");
 
 	int User_num4;
 	printf("\nEnter No. To print it's absolute value = ");
 	scanf_s("%d", &User_num4);
-	printf("\nAbsolute Value = %d\n", abs(User_num4));//abs() is a function which is used to get absolute value of a number
+	if (User_num4 < 0) {
+		User_num4 = -User_num4;
+		printf("\n Absolut Value %d\n", User_num4);
+	}
+	else {
+		printf("\nallready Absolut Value\n")
+	}
 	return 0;
 }
