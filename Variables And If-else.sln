@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For Loop", "..\For Loop\For
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Star Pattern", "..\Star Pattern\Star Pattern.vcxproj", "{3A29814C-6E16-4137-AF74-D69B5959D387}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nasted Loop", "..\Nasted Loop\Nasted Loop.vcxproj", "{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3A29814C-6E16-4137-AF74-D69B5959D387}.Release|x64.Build.0 = Release|x64
 		{3A29814C-6E16-4137-AF74-D69B5959D387}.Release|x86.ActiveCfg = Release|Win32
 		{3A29814C-6E16-4137-AF74-D69B5959D387}.Release|x86.Build.0 = Release|Win32
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Debug|x64.ActiveCfg = Debug|x64
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Debug|x64.Build.0 = Debug|x64
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Debug|x86.Build.0 = Debug|Win32
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Release|x64.ActiveCfg = Release|x64
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Release|x64.Build.0 = Release|x64
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Release|x86.ActiveCfg = Release|Win32
+		{CBDEAD4A-9D43-479E-AC7E-DA1677ED823D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
